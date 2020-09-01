@@ -1,0 +1,11 @@
+.bg-aqua{
+	background-color: #1dd1a1;
+}
+
+.img-icon{
+	display: block;
+	width: 100px;
+	height: 100px;
+	margin-left: auto;
+	margin-right: auto;
+}
